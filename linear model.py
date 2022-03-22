@@ -59,6 +59,3 @@ def plot_predict(i):
 
 
 
-
-jytyjj
-
