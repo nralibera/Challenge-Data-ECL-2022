@@ -57,3 +57,8 @@ def plot_predict(i):
     ax.plot(Y_all[i][10:], label="true")
     plt.legend()
 
+
+
+
+jytyjj
+
